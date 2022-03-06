@@ -128,7 +128,6 @@ const start = async () => {
 
 start()
 
-}),
       printQRInTerminal: true,
       browser: ['@neoxr / neoxr-bot', 'Safari', '3.0'],
       auth: state,
