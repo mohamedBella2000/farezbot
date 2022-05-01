@@ -38,7 +38,7 @@ const {
 } = require('./system/neoxrApi')
 
 // Get free apikey register at https://api.neoxr.eu.org
-global.Api = new NeoxrApi('N0xSU8Yvu6')
+global.Api = new NeoxrApi('IVQO4ntU')
 
 const start = async () => {
    global.client = Socket({
