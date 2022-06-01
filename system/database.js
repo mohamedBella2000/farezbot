@@ -129,8 +129,8 @@ module.exports = (m) => {
          uploadSize: 0,
          receiveSize: 0,
          toxic: ["ajg", "ajig", "anjas", "anjg", "anjim", "anjing", "anjrot", "anying", "asw", "autis", "babi", "bacod", "bacot", "bagong", "bajingan", "bangsad", "bangsat", "bastard", "bego", "bgsd", "biadab", "biadap", "bitch", "bngst", "bodoh", "bokep", "cocote", "coli", "colmek", "comli", "dajjal", "dancok", "dongo", "fuck", "gelay", "goblog", "goblok", "guoblog", "guoblok", "hairul", "henceut", "idiot", "itil", "jamet", "jancok", "jembut", "jingan", "kafir", "kanjut", "kanyut", "keparat", "kntl", "kontol", "lana", "loli", "lont", "lonte", "mancing", "meki", "memek", "ngentod", "ngentot", "ngewe", "ngocok", "ngtd", "njeng", "njing", "njinx", "oppai", "pantek", "pantek", "peler", "pepek", "pilat", "pler", "pornhub", "pucek", "puki", "pukimak", "redhub", "sange", "setan", "silit", "telaso", "tempek", "tete", "titit", "toket", "tolol", "tomlol", "tytyd", "wildan", "xnxx"],
-         sk_pack: '© IRJA',
-         sk_author: 'IG : irja_official',
+         sk_pack: '© Farz',
+         sk_author: 'IG : faaaarr__',
          multiprefix: true,
          prefix: ['.', '#', '!', '/'],
          onlyprefix: '+',
@@ -138,7 +138,7 @@ module.exports = (m) => {
          cover: 'https://telegra.ph/file/b277cff79c78eba2d9661.jpg',
          header: 'JUST FOR FUN',
          msg: 'I am a Whatsapp BOT, use a bot in private chat so that bots can respond quickly.',
-         footer: 'ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡᴀɴɢsᴀғ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+         footer: 'AsunaBot - Md ッ'
       }
    }
 }
