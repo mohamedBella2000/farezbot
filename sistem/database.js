@@ -115,8 +115,8 @@ module.exports = (m) => {
       if (!('owners' in setting)) setting.owners = ['6281575900615']
       if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/3b7b94c58ed607b5a6f78.jpg'
       if (!('header' in setting)) setting.header = 'Asuna Bot WhatsApp'
-      if (!('msg' in setting)) setting.msg = 'I am a Whatsapp BOT, use a bot in private chat so that bots can respond quickly.'
-      if (!('footer' in setting)) setting.footer = 'nᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ғᴀʀᴢ ッ'
+      if (!('msg' in setting)) setting.msg = 'I am a simple Whatsapp BOT, use a bot in private chat so that bots can respond quickly.'
+      if (!('footer' in setting)) setting.footer = 'ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ғᴀʀᴢ ッ'
    } else {
       global.db.setting = {
          autobackup: false,
